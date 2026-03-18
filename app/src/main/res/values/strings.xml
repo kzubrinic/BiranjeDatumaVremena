@@ -4,4 +4,6 @@
     <string name="odaberi_vrijeme">Odaberi vrijeme</string>
     <string name="izabrani_datum">Ovdje će pisati izabrani datum</string>
     <string name="izabrano_vrijeme">Ovdje će pisati izabrano vrijeme</string>
+    <string name="izbor_datuma">Izbor datuma</string>
+    <string name="izbor_vremena">Izbor vremena</string>
 </resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/izbor_datum"
+        android:title="@string/izbor_datuma"
+        android:icon="@android:drawable/ic_menu_month"
+        app:showAsAction="never"/>
+    <item android:id="@+id/izbor_vrijeme"
+    android:title="@string/izbor_vremena"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        app:showAsAction="never"/>
+    </menu>
