@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Biranje datuma i vremena</string>
+    <string name="odaberi_datum">Odaberi datum</string>
+    <string name="odaberi_vrijeme">Odaberi vrijeme</string>
+    <string name="izabrani_datum">Ovdje će pisati izabrani datum</string>
+    <string name="izabrano_vrijeme">Ovdje će pisati izabrano vrijeme</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <Button
+        android:id="@+id/btnDatum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/odaberi_datum"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btnVrijeme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/odaberi_vrijeme"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/izDatum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/izabrani_datum"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/izVrijeme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/izabrano_vrijeme"
+        android:textSize="20sp" />
+
+</LinearLayout>
